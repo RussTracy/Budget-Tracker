@@ -1,5 +1,5 @@
 # Budget-Tracker
-Budget tracker that gives users a fast and easy way to track their money even while offline.
+This budget tracker is a progressive web app that gives users a fast and easy way to track their money even while offline.
 # Installation
 
 Clone the repositry from GitHub and open using Visual Studio Code.

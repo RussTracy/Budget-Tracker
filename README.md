@@ -5,6 +5,7 @@ Budget tracker that gives users a fast and easy way to track their money even wh
 Clone the repositry from GitHub and open using Visual Studio Code.
 
 # Usage 
+[Deployed Site](https://rst-budget-tracker.herokuapp.com/)
 
 ![alt text](./public/images/ScreenShot.jpg)
 
